@@ -1,3 +1,5 @@
+[![GhoulBoii's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghoulboii)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @GhoulBoii
 - 👀 I’m interested in Arch Linux and other Tech related projects.
 - 🌱 I’m currently learning Java.
