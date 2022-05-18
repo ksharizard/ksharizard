@@ -1,4 +1,5 @@
-[![GhoulBoii's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghoulboii)](https://github.com/anuraghazra/github-readme-stats)
+[![GhoulBoii's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghoulboii&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoulboii)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @GhoulBoii
 - 👀 I’m interested in Arch Linux and other Tech related projects.
