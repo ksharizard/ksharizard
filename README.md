@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9b47ff&center=true&random=false&width=435&lines=~%3E+Hello!;Welcome+to+My+Profile." alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9b47ff&center=true&random=false&width=435&lines=~%3E+Hello!;Welcome+to+My+Profile." alt="Typing SVG" />
+</a>
+</p>
+
 <pre>
 <strong>~> cat intro.txt</strong>
 Teen programmer who enjoys coding and contributing to open source technology.
