@@ -1,6 +1,12 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9b47ff&center=true&random=false&width=435&lines=~%3E+Hello!;Welcome+to+My+Profile." alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=32&pause=1000&color=9b47ff&center=true&random=false&width=435&lines=~%3E+Hello!;Welcome+to+My+Profile!" alt="Typing SVG" />
 </a>
+</p>
+
+<p align = "center">
+<img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <br>
