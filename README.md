@@ -7,11 +7,13 @@
 
 <pre>
 <strong>~> cat intro.txt</strong>
+
 Teen programmer who enjoys coding and contributing to open source technology.
 </pre>
 
 <pre>
 <strong>~> cat hobbies.txt</strong>
+
 🎮 Playing Video Games
 🏀 Shooting Hoops
 🐧 Learning Linux
@@ -20,6 +22,7 @@ Teen programmer who enjoys coding and contributing to open source technology.
 
 <pre>
 <strong>~> cat setup.txt</strong>
+
 OS: <a href="https://github.com/Atlas-OS/Atlas">AtlasOS</a> and <a href="https://archlinux.org/">ArchLinux</a>
 Editor: <a href="https://github.com/VSCodium/vscodium">VSCodium</a>
 Browser: <a href="https://www.mozilla.org/en-US/firefox">Firefox</a> 
@@ -28,6 +31,7 @@ Terminal: <a href="https://github.com/wez/wezterm">Wezterm</a>
 
 <pre>
 <strong>~> cat contact.txt</strong>
+
 email: <a href="mailto:personal@ghoulcloud.slmail.me">github@ghoulcloud.slmail.me</a>
 </pre>
 
