@@ -3,10 +3,14 @@
 </a>
 </p>
 
+<br>
+
 <pre>
 <strong>~> cat intro.txt</strong>
 Teen programmer who enjoys coding and contributing to open source technology.
 </pre>
+
+<br>
 
 <pre>
 <strong>~> cat hobbies.txt</strong>
@@ -16,6 +20,8 @@ Teen programmer who enjoys coding and contributing to open source technology.
 💻 Trying out new Tech
 </pre>
 
+<br>
+
 <pre>
 <strong>~> cat setup.txt</strong>
 OS: <a href="https://github.com/Atlas-OS/Atlas">AtlasOS</a> and <a href="https://archlinux.org/">ArchLinux</a>
@@ -24,10 +30,14 @@ Browser: <a href="https://www.mozilla.org/en-US/firefox">Firefox</a>
 Terminal: <a href="https://github.com/wez/wezterm">Wezterm</a>
 </pre>
 
+<br>
+
 <pre>
 <strong>~> cat contact.txt</strong>
 email: <a href="mailto:personal@ghoulcloud.slmail.me">github@ghoulcloud.slmail.me</a>
 </pre>
+
+<br>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghoulboii&show_icons=true&theme=midnight-purple" />
