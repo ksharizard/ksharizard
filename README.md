@@ -29,16 +29,16 @@ Teen programmer who enjoys coding and contributing to open source technology.
 <pre>
 <strong>~> cat setup.txt</strong>
 
-OS: <a href="https://github.com/Atlas-OS/Atlas">AtlasOS</a> and <a href="https://archlinux.org/">ArchLinux</a>
-Editor: <a href="https://github.com/VSCodium/vscodium">VSCodium</a>
-Browser: <a href="https://www.mozilla.org/en-US/firefox">Firefox</a> 
+OS: <a href="https://github.com/Atlas-OS/Atlas">AtlasOS</a> and <a href="https://github.com/GhoulBoii/arch-installer">ArchLinux</a>
+Editor: <a href="https://github.com/GhoulBoii/nvim">Neovim</a>
+Browser: <a href="https://github.com/GhoulBoii/firefox">Firefox</a> 
 Terminal: <a href="https://github.com/wez/wezterm">Wezterm</a>
 </pre>
 
 <pre>
 <strong>~> cat contact.txt</strong>
 
-email: <a href="mailto:personal@ghoulcloud.slmail.me">github@ghoulcloud.slmail.me</a>
+email: <a href="mailto:github@ghoulcloud.slmail.me">github@ghoulcloud.slmail.me</a>
 </pre>
 
 <br>
