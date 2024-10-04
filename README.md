@@ -38,7 +38,7 @@ Terminal: <a href="https://github.com/wez/wezterm">Wezterm</a>
 <pre>
 <strong>~> cat contact.txt</strong>
 
-email: <a href="mailto:github@ghoulcloud.slmail.me">github@ghoulcloud.slmail.me</a>
+email: <a href="mailto:github@ghoulcloud.slmail.me">kshamendrakumarmishra@proton.me</a>
 </pre>
 
 <br>
