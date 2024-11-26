@@ -20,25 +20,25 @@ Teen programmer who enjoys coding and contributing to open source technology.
 <pre>
 <strong>~> cat hobbies.txt</strong>
 
-🎮 Playing Video Games
-🏀 Shooting Hoops
-🐧 Learning Linux
-💻 Trying out new Tech
+- Playing Video Games
+- Shooting Hoops
+- Learning Linux
+- Trying out new Tech
 </pre>
 
 <pre>
 <strong>~> cat setup.txt</strong>
 
-OS: <a href="https://github.com/Atlas-OS/Atlas">AtlasOS</a> and <a href="https://github.com/GhoulBoii/arch-installer">ArchLinux</a>
+OS: <a href="https://github.com/GhoulBoii/arch-installer">ArchLinux</a> and <a href="https://github.com/Atlas-OS/Atlas">AtlasOS</a>
+Dotfiles: <a href="https://github.com/GhoulBoii/dotfiles">Linux</a> and <a href="https://github.com/ghoulboii/windots">Windows</a> Dots
 Editor: <a href="https://github.com/GhoulBoii/nvim">Neovim</a>
-Browser: <a href="https://github.com/GhoulBoii/firefox">Firefox</a> 
-Terminal: <a href="https://github.com/wez/wezterm">Wezterm</a>
+Browser: <a href="https://github.com/GhoulBoii/foxdots">Firefox</a>
 </pre>
 
 <pre>
 <strong>~> cat contact.txt</strong>
 
-email: <a href="mailto:github@ghoulcloud.slmail.me">kshamendrakumarmishra@proton.me</a>
+email: <a href="mailto:code.ksh@erine.email">code.ksh@erine.email</a>
 </pre>
 
 <br>
