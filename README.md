@@ -29,26 +29,26 @@ Teen programmer who enjoys coding and contributing to open source technology.
 <pre>
 <strong>~> cat setup.txt</strong>
 
-OS: <a href="https://github.com/GhoulBoii/arch-installer">ArchLinux</a> and <a href="https://github.com/Atlas-OS/Atlas">AtlasOS</a>
-Dotfiles: <a href="https://github.com/GhoulBoii/dotfiles">Linux</a> and <a href="https://github.com/ghoulboii/windots">Windows</a> Dots
-Editor: <a href="https://github.com/GhoulBoii/nvim">Neovim</a>
-Browser: <a href="https://github.com/GhoulBoii/foxdots">Firefox</a>
+OS: <a href="https://github.com/ksharizard/arch-installer">ArchLinux</a> and <a href="https://github.com/Atlas-OS/Atlas">AtlasOS</a>
+Dotfiles: <a href="https://github.com/ksharizard/dotfiles">Linux</a> and <a href="https://github.com/ksharizard/windots">Windows</a> Dots
+Editor: <a href="https://github.com/ksharizard/nvim">Neovim</a>
+Browser: <a href="https://github.com/ksharizard/foxdots">Firefox</a>
 </pre>
 
 <pre>
 <strong>~> cat contact.txt</strong>
 
-email: <a href="mailto:code.ksh@erine.email">code.ksh@erine.email</a>
+email: <a href="mailto:code@kshdev.slmail.me">code@kshdev.slmail.me</a>
 </pre>
 
 <br>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghoulboii&show_icons=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksharizard&show_icons=true&theme=midnight-purple" />
 </a>
 </p>
 
 <!---
-GhoulBoii/GhoulBoii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ksharizard/ksharizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
