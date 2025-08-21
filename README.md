@@ -30,7 +30,7 @@ Teen programmer who enjoys coding and contributing to open source technology.
 <strong>~> cat setup.txt</strong>
 
 OS: <a href="https://github.com/ksharizard/arch-installer">ArchLinux</a> and <a href="https://github.com/Atlas-OS/Atlas">AtlasOS</a>
-Dotfiles: <a href="https://github.com/ksharizard/dotfiles">Linux</a> and <a href="https://github.com/ksharizard/windots">Windows</a> Dots
+Dotfiles: Windows + Linux <a href="https://github.com/ksharizard/dotfiles">dots</a>
 Editor: <a href="https://github.com/ksharizard/nvim">Neovim</a>
 Browser: <a href="https://github.com/ksharizard/foxdots">Firefox</a>
 </pre>
