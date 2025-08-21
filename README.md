@@ -3,22 +3,22 @@
 <pre>
 <strong>~> cat intro.txt</strong>
 
-Teen programmer who enjoys coding and contributing to open source technology.
+Teen programmer who enjoys coding and contributing to the open source community.
 </pre>
 
 <pre>
 <strong>~> cat hobbies.txt</strong>
 
-- Playing Video Games
-- Shooting Hoops
-- Learning Linux
-- Trying out new Tech
+- Coding 
+- Listening to music
+- Trying out new tech
+- Playing video games
 </pre>
 
 <pre>
 <strong>~> cat setup.txt</strong>
 
-OS: <a href="https://github.com/ksharizard/arch-installer">ArchLinux</a> and <a href="https://github.com/Atlas-OS/Atlas">AtlasOS</a>
+OS: <a href="https://github.com/ksharizard/arch-installer">Arch Linux</a> and <a href="https://github.com/Atlas-OS/Atlas">AtlasOS</a>
 Dotfiles: Windows + Linux <a href="https://github.com/ksharizard/dotfiles">dots</a>
 Editor: <a href="https://github.com/ksharizard/nvim">Neovim</a>
 Browser: <a href="https://github.com/ksharizard/foxdots">Firefox</a>
