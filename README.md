@@ -32,11 +32,6 @@ email: <a href="mailto:code@kshdev.slmail.me">code@kshdev.slmail.me</a>
 
 <br>
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksharizard&show_icons=true&theme=midnight-purple" />
-</a>
-</p>
-
 <!---
 ksharizard/ksharizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
