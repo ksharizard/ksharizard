@@ -30,8 +30,6 @@ Browser: <a href="https://github.com/ksharizard/foxdots">Firefox</a>
 email: <a href="mailto:code@kshdev.slmail.me">code@kshdev.slmail.me</a>
 </pre>
 
-<br>
-
 <!---
 ksharizard/ksharizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
