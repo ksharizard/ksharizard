@@ -1,3 +1,4 @@
+<h1 align="center">Welcome</h1>
 <pre>
 <strong>~> cat intro.txt</strong>
 Programmer who enjoys coding and contributing to the open source community.
